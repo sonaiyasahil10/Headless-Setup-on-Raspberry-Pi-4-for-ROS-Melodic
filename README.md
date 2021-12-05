@@ -9,7 +9,7 @@ Also we will be trying with a **headless setup** i.e, we will try to install the
 Raspbian Buster is the fourth version of the Raspbian operating system and is based on Debian Buster.
 Raspbian is a free Debian-based operating system optimized for the Raspberry Pi, and Buster is the development code name for Debian 10. In this guide, we'll download and install Raspbian Stretch for use on the Raspberry Pi.
 
-Before starting download this image file : 
+Before moving on [download](https://drive.google.com/drive/folders/1Cus9rOH_-XbNsec-lqWiV9UxXxrr0uHh?usp=sharing) this OS image file : 
 
 ## So the flow of tasks is as given:
 
@@ -31,11 +31,13 @@ Before starting download this image file :
 
         ![image](https://user-images.githubusercontent.com/84728233/144751766-6f67407b-7cd2-453a-a8bd-c4071ab92e89.png)
 
-   4) Scroll down to Configure wifi, check the box and enter your WiFi credentials.
+   4) You can either set your Wfi credentails here itself ***or*** follow Step 6 to configure wifi by externally adding 2 files.
+   
+   5) Scroll down to Configure wifi, check the box and enter your WiFi credentials.
 
          ![image](https://user-images.githubusercontent.com/84728233/144751810-4ac2a900-6fb9-4cc1-a06a-1629a5ae540c.png)
          
-    5)  Click SAVE and flash your OS to your microSD card for your Raspberry Pi! That’s it!
+    6)  Click SAVE and flash your OS to your microSD card for your Raspberry Pi! That’s it!
 
 
 4) Once the image has been written, Raspbian OS is installed. 
