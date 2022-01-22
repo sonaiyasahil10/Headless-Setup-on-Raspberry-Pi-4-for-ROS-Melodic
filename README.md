@@ -50,7 +50,7 @@ Create a file named  "wpa_supplicant.conf" and place the below code with your co
 ```
 ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
 update_config=1
-country=PK #Your country code
+country=IN #Your country code
 
 network={
         ssid="My_WiFi" #Your WiFi Name
