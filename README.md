@@ -58,4 +58,4 @@ network={
         key_mgmt=WPA-PSK
 }
 ```
-
+Use any ***Advance IP scanner*** to find 
